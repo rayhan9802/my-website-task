@@ -23,3 +23,37 @@ width: 100px;
 .menus{
     display: flex;
 }
+.blog{
+    margin-top: 10px;
+    font-size: 50px;
+    bottom: 20px;
+}
+
+
+.dolor{
+    margin-top: 10px ;
+    padding: 10px;
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.img-benner{
+    width: 200px;
+    margin: 10px;
+   
+    
+}
+.benner-container{
+   display: flex;
+   color: white;
+   justify-content: space-around;
+  background-color:black;
+  height: 100vh;
+  align-items: center;
+  border: 2px solid grey;
+}
+
