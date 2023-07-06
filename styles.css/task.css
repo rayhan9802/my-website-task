@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+   padding: 15px;
+   list-style: none;
+   background-color: black;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+  
+
+}
+.logo-photo{
+width: 100px;
+}
+.item{
+    margin: 10px;
+    padding: 10px;
+}
+.menus{
+    display: flex;
+}
